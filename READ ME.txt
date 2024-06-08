@@ -1,0 +1,10 @@
+body params:
+
+{
+        
+        "statementDescription": "Note of 4 to 22 chars",
+        "amount": "15",
+        "msisdn": "233263456789",
+        "country": "GHA",
+        "reason": "Ticket to festival"
+      }
